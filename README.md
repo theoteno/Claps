@@ -1,5 +1,5 @@
 # claps
-A new gtk4 audio editor about-to written with python, beautiful &amp; no-telemetry!
+A new gtk4 audio editor app about-to written with python, beautiful &amp; no-telemetry!
 
 If I actually would start developing it, that would be nice!?
 (Not many gtk4-apps/audio-apps are written in python, but I will try to it) 
