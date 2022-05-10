@@ -1,5 +1,5 @@
 # claps
-A new gtk4 audio editor, beautiful &amp; no-telemetry!
+A new gtk4 audio editor about-to written with python, beautiful &amp; no-telemetry!
 
 If I actually would start developing it, that would be nice!?
 (GTK4 media player written in python, Clapper used Meson & its documentation has a page for gnome, so I will go with Meson!)
